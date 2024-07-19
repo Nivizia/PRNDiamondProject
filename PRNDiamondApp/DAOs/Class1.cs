@@ -1,4 +1,4 @@
-﻿namespace DataAccessObjects
+﻿namespace DAOs
 {
     public class Class1
     {

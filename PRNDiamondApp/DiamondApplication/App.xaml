@@ -1,7 +1,7 @@
-﻿<Application x:Class="PRNApp.App"
+﻿<Application x:Class="DiamondApplication.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:PRNApp"
+             xmlns:local="clr-namespace:DiamondApplication"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          

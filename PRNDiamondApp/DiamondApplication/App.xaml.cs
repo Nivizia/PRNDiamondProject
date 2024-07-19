@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace PRNApp
+namespace DiamondApplication
 {
     /// <summary>
     /// Interaction logic for App.xaml
